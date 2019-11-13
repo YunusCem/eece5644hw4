@@ -7,7 +7,7 @@ rng(500)
 clear all
 
 %K-Means
-%Importing exam images (I will keep the originals in case I need them later)
+%Importing images (I will keep the originals in case I need them later)
 imgplane = imread('EECE5644_2019Fall_Homework4Questions_3096_colorPlane.jpg');
 imgbird = imread('EECE5644_2019Fall_Homework4Questions_42049_colorBird.jpg');
 imgserdar1 = imread('SO1.jpg');
